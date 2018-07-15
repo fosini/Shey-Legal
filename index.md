@@ -1,7 +1,7 @@
 ### INTRODUCTION
 
 Effective date: July 15, 2018
-Welcome to Shey ("Shey," "we," "us" or "our"). Shey provides a fast, beautiful and fun way for you to share media through our content-sharing platform. 
+Welcome to Shey ("Shey," "we," "us" or "our"). Shey provides a fast, beautiful and fun way for you to share media through our content-sharing platform.  When you are registering an account and/or using our services, you aknowledge and accept our [Terms-of-Services (ToS) ](https://github.com/fosini/Shey-Tos) and Privacy Policy.
 
 By using our Service you understand and agree that we are providing a platform for you to post content, including photos, videos, notifications, views and other materials ("User Content"), to the Service and to share User Content publicly. This means that other Users may search for, see, use, or share any of your User Content that you make publicly available through the Service, consistent with the terms and conditions of this Privacy Policy and our Terms of Use (which can be found at https://fosini.github.io/Shey-ToS/).
 
