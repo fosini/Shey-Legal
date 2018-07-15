@@ -47,6 +47,6 @@ Shey does not knowingly collect or solicit any information from anyone under the
 
 #### CHANGES TO OUR PRIVACY POLICY
 
-Shey may modify or update this Privacy Policy, the link to the Privacy Policy from time to time, so please review and search for it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of Instagram or the Service after any modification to this Privacy Policy will constitute your acceptance of such modification.
+Shey may modify or update this Privacy Policy, the link to the Privacy Policy from time to time, so please review and search for it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of Shey or the Service after any modification to this Privacy Policy will constitute your acceptance of such modification.
 
 
